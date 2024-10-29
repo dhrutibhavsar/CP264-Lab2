@@ -1,0 +1,42 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 2 Test Results File
+ * -------------------------------------
+ * @author Dhruti Bhavsar, 169025128, bhav5128@mylaurier.ca
+ *
+ * @version 2024-09-17
+ *
+ * -------------------------------------
+ */
+------------------
+Task 2
+Using index-based arrays
+
+Value  Square 
+-----  ----------
+   1           1
+   2           4
+   3           9
+   4           16
+   5           25
+   6           36
+   7           49
+   8           64
+
+------------------
+Task 4
+Using pointer-based arrays
+
+Value  Square 
+-----  ----------
+   1           1
+   2           4
+   3           9
+   4           16
+   5           25
+   6           36
+   7           49
+   8           64
+
+
